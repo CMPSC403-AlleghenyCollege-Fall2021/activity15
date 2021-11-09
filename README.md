@@ -6,7 +6,7 @@ For the fifteenth activity you are invited to participated in a guided completio
 
 ## Assignment
 
--  Complete [Activity 15]() directly on TryHackMe.
+-  Complete [Activity 15](https://tryhackme.com/jr/alleghenyrpburpsuiteem) directly on TryHackMe.
 
 ## Submission
 
