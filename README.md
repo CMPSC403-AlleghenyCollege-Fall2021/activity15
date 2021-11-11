@@ -1,6 +1,6 @@
 # Class Activity 15
 
-## Deadline: November 11 by 9:35am
+## Deadline: November 12 by 3pm
 
 For the fifteenth activity you are invited to participated in a guided completion of the Burpsuite TryHackMe exercise.
 
